@@ -1,0 +1,16 @@
+{
+  "name": "cypress-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Brett Shollenberger",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "3.1.5",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0"
+  }
+}
